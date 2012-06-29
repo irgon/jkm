@@ -1,0 +1,55 @@
+h4 {
+    font-size: 1em;
+}
+
+div.branding {
+    height: 255px;
+}
+
+div.branding h2 {
+    background: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/upr.png", sizingMethod="crop");
+}
+
+div.branding div.jkm {
+    background: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/jkm.png", sizingMethod="crop");
+}
+
+div.branding div.menu div.top {
+    background: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/mainmenu-top.png", sizingMethod="crop");    
+}
+
+div.branding div.menu div.bottom {
+    background: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/mainmenu-bottom.png", sizingMethod="crop");    
+}
+
+div.branding div.menu ul {
+    background: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="images/mainmenu.png", sizingMethod="scale");    
+}
+
+div.content div.left {
+    margin-left: 10px;
+}
+
+div.content div.right,
+div.content div.right div.mright {
+    zoom: 1;
+}
+
+div.content div.info {
+    zoom: 1;
+    overflow: hidden;
+}
+
+div.content div.info input.text {
+    margin-right: 2%;
+}
+
+div.content div.info input.submit {
+    zoom: 1;
+    float: left
+}
